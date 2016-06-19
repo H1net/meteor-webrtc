@@ -7,7 +7,6 @@ coffeescript
 iron:router
 less
 fds:webrtc
-meteor-platform
 reactive-var
 
 mizzao:bootstrap-3
@@ -15,3 +14,18 @@ force-ssl
 zimme:iron-router-active
 markdown
 fds:streams
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+standard-minifier-css
+standard-minifier-js
